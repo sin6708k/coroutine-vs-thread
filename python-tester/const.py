@@ -1,0 +1,2 @@
+COUNT = 10 ** 8
+DELAY = 1
